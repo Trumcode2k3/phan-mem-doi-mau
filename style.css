@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#btn {
+  position: absolute;
+  margin-top: 20vh;
+  font-size: 2rem;
+}
+#title {
+  font-size: 5em;
+  text-shadow: 2px 2px 5px blue;
+}
